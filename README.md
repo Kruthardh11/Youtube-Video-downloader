@@ -1,6 +1,5 @@
 # YouTube Video Downloader
 
-![YouTube Video Downloader](path_to_your_screenshot.png)
 
 ## Overview
 
@@ -54,9 +53,10 @@ python main.py
 4. **Download Playlist**: Click the "Download Playlist" button to download all videos in the playlist.
 5. **Progress Bar**: The progress bar will show the download progress.
 
+![two](https://github.com/user-attachments/assets/7ef289c3-1106-4283-8b90-00bcab3727aa)
+
 ![one](https://github.com/user-attachments/assets/afde0d87-7040-42c7-b63a-ce16736ae279)
 
-![two](https://github.com/user-attachments/assets/7ef289c3-1106-4283-8b90-00bcab3727aa)
 
 ## Acknowledgments
 
