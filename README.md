@@ -62,7 +62,3 @@ python main.py
 
 - This project uses the [yt-dlp](https://github.com/yt-dlp/yt-dlp) library for downloading YouTube videos.
 - Thanks to the developers of `tkinter` and `customtkinter` for providing excellent GUI libraries for Python.
-
----
-
-Replace `path_to_your_screenshot.png`, `path_to_your_screenshot_1.png`, and `path_to_your_screenshot_2.png` with the actual paths to your screenshots. You can host your images in the repository or use an image hosting service.
